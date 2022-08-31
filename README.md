@@ -172,7 +172,7 @@ Also, after pledging, you can go to your personal cabinet, where you have a full
 
 # **Developers team**
 
-Tetiana Shcherbak
-Jakub Gembicki
-Sebastian Ryndak
-Vladyslav Shyian
+* [Tetiana Shcherbak](https://github.com/TetianaShcherbak)
+* [Jakub Gembicki](https://github.com/JakubGem)
+* [Sebastian Ryndak](https://github.com/SebastianRyndak)
+* [Vladyslav Shyian](https://github.com/mrshyian)
