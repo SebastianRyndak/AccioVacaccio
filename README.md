@@ -169,3 +169,10 @@ Also, after pledging, you can go to your personal cabinet, where you have a full
 - https://emergencynumberapi.com/api/country/; // emergency numbers (unlimited)
 - https://v6.exchangerate-api.com/v6/; // exchange currency (unlimited)
 - https://recaptchaenterprise.googleapis.com/$discovery/rest?version=v1; // Google reCAPTCHA (unlimited)
+
+# **Developers team**
+
+Tetiana Shcherbak
+Jakub Gembicki
+Sebastian Ryndak
+Vladyslav Shyian
